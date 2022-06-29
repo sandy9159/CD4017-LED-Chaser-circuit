@@ -1,6 +1,6 @@
 # CD4017-LED-Chaser-circuit
 
-# DIY-LED-Chaser-patern-circuit-using-CD4017
+
 
 ![image](https://user-images.githubusercontent.com/19898602/127034323-828bca3f-f4a9-46fc-a44e-9728f5a2b58f.png)
 
